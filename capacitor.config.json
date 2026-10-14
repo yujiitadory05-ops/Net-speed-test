@@ -1,0 +1,8 @@
+{
+  "appId": "com.netx.speedtest",
+  "appName": "NETX Speed Test",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
